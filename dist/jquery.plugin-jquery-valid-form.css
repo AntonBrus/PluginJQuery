@@ -1,0 +1,38 @@
+.v-form-group {
+    margin-bottom: 10px;
+}
+
+.v-form-group label {
+    display: block;
+    font-size: 1.1em;
+    font-weight: bold;
+    margin-bottom: 7px;
+}
+
+.v-form-group input[type="text"]{
+    font-size: 1.15em;
+    width: 600px;
+}
+
+.v-form-group input[type="submit"]{
+    font-size: 1.15em;
+    padding: 3px;
+}
+
+/* Классы, которые добавляются/удаляются динамически */
+.v-success {
+    color: #235323;
+}
+
+.v-error {
+    color: darkred;
+}
+
+.v-disabled {
+    color: #099112;
+}
+
+.v-bg-error {
+    border: 1px solid #450000;
+    background-color: #ff6545;
+}

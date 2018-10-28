@@ -1,0 +1,8 @@
+.v-error-yellow {
+    color: #ad8a04;
+}
+
+.v-bg-error-yellow {
+    border: 1px solid #ffc31a;
+    background-color: #e2ffa9;
+}
